@@ -24,19 +24,13 @@ intro:
     - image: /img/stokerij_decort.jpg
       text: >
         Maandelijkse bestuursvergadering voor het dagelijks bestuur van kwb, maandelijkse Wijkmeestersvergadering, alternerend een gewone vergadering of een Ra(a)ke vrijdag waar iedereen welkom is.
-  heading: What we offer
+  heading: Wat doen wij?
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    kwb Merchtem is de vereniging...
 main:
-  heading: Great coffee with no compromises
+  heading: Fijne vereniging voor mannen van elke leeftijd
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    kwb Merchtem is de vereniging...
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
