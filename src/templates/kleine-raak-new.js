@@ -55,7 +55,7 @@ KleineRaakNewTemplate.propTypes = {
   helmet: PropTypes.object,
 };
 
-const BlogPost = ({ data }) => {
+const KleineRakenNew = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
@@ -80,13 +80,13 @@ const BlogPost = ({ data }) => {
   );
 };
 
-KleineRaakNew.propTypes = {
+KleineRakenNew.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
   }),
 };
 
-export default BlogPost;
+export default KleineRakenNew;
 
 export const pageQuery = graphql`
   query KleineRaakByID($id: String!) {

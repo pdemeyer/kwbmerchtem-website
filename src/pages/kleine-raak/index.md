@@ -1,5 +1,5 @@
 ---
-templateKey: 'kleine-raak-new'
+templateKey: 'kleine-raken-page'
 path: /kleine-raak
 title: Kleine Raak
 image: /img/kleine_raak_1.jpg

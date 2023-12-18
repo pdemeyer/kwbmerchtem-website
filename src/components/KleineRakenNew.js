@@ -12,7 +12,7 @@ const KleineRakenNewTemplate = (props) => {
     <div className="columns is-multiline">
       {posts &&
         posts.map(({ node: post }) => (
-          <div className="is-parent column is-6" key={post.id}>
+          <div className="is-parent column is-4" key={post.id}>
             <article
               className={`kleine-raken-item tile is-child box notification ${
                 post.frontmatter.featuredpost ? 'is-featured' : ''
@@ -43,10 +43,12 @@ const KleineRakenNewTemplate = (props) => {
                 >
                   {post.frontmatter.title}
                 </Link>
-                <span> &bull; </span>
-                <span className="subtitle is-size-5 is-block">
+                <span> </span>
+                {/*
+                <span className="subtitle is-size-6 is-block">
                   {post.frontmatter.date}
                 </span>
+                    */}
               </p>
               <p>
                 <Link className="button" to={post.fields.slug}>
