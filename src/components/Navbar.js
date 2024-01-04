@@ -53,7 +53,7 @@ const Navbar = () => {
           </li>
           <li className="navbar-item" style={{ padding: "0px" }}>
             <Link className="navbar-item" to="/kleine-raken">
-              Kleine Raak New
+              Kleine Raak
             </Link>
           </li>
           <li className="navbar-item" style={{ padding: "0px" }}>
